@@ -1,3 +1,4 @@
 Author -  Ravi Kumar Gangwar
 <br>
-This repository tells that i have taken the training of java language
+This repository is about that i have done coding and all in java 
+
