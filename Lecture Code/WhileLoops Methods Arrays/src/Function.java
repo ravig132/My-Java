@@ -1,12 +1,13 @@
 public class Function {
     public static void main(String[] args) {
 
-        Greeting();
+        Function Greeting = new Function();
+        Greeting.Greeting();
         Star1();
     }
 
 
-    public static void Greeting(){
+    public void Greeting(){
         System.out.println("Good Morning From RK Gangwar ");
 
     }
