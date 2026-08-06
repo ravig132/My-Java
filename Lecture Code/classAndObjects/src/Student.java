@@ -26,6 +26,7 @@ public class Student {
         this.age = srcObj.age;
         this.name = srcObj.name;
         this.nos = srcObj.nos;
+        this.gf = srcObj.gf;
     }
 
     //methods and behaviours
